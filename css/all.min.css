@@ -1,0 +1,9 @@
+
+.error {color: #b70b0b;}
+
+input.error{
+    background-color: #FFBABA !important;
+    border: 1px solid !important;
+    color: #D8000C !important;
+	background-image:none;
+}
